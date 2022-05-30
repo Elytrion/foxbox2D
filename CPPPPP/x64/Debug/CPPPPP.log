@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\Jed\Desktop\Collision\GJK\CPPPPP\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CPPPPP.vcxproj -> C:\Users\Jed\Desktop\Collision\GJK\CPPPPP\x64\Debug\CPPPPP.exe
