@@ -1,4 +1,19 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CPPPPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  collider.cpp
+  collision.cpp
+  epa.cpp
   game.cpp
-C:\Users\Jed\Desktop\Collision\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
-  CPPPPP.vcxproj -> C:\Users\Jed\Desktop\Collision\foxbox2D\x64\Debug\FoxBox2D.exe
+  gjk.cpp
+  main.cpp
+  utils.cpp
+  vector_utils.cpp
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file epa.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file vector_utils.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file collision.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file main.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file utils.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file game.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file collider.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\gjk.h(21,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data (compiling source file gjk.cpp)
+C:\Users\gabri\source\repos\foxbox2D\CPPPPP\collider.cpp(72,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  CPPPPP.vcxproj -> C:\Users\gabri\source\repos\foxbox2D\x64\Debug\FoxBox2D.exe
